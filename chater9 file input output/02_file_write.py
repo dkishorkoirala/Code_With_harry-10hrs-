@@ -1,0 +1,7 @@
+st = "Hey Dibash, you are amazing"
+
+f = open("myfile.txt", "w")
+
+f.write(st)
+
+f.close()
