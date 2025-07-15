@@ -12,39 +12,23 @@ The content is organized chapter-wise and includes:
 - Advanced Python concepts
 - Mini and mega projects
 
-├── chapter1/
-│ └── ch-1 ps/
-├── chapter2/
-│ └── ch_2 ps/
-├── chapter3/
-│ └── ch-3 ps/
-├── chapter4/
-│ └── practiceset-04/
-├── chapter5 dictionary and set/
-│ └── ps ch 5/
-├── chapter6 conditional expression/
-│ └── Practice set CH-6/
-├── chapter7 Loops/
-│ └── chapter7 - PS/
-├── chapter8 function & recursions/
-│ └── chapter8 -ps/
-├── project1/
-├── chapter9 file input output/
-│ └── chapter9 ps/
-│ └── tables/
-├── chapter10 oop/
-│ └── chapter 10 ps/
-├── chapter11 Inheritance and more on oops/
-│ └── ch11 - ps/
-├── chapter12 advanced Python 1/
-│── project2 - the perfect Guess/
-│ ├── ps ch 12/
-│ └── pycache/
-├── chapter13 advanced Python2/
-│ └── ps chapter 13/
-├── mega_project1/
-│ └── pycache/
-└── mega_project2/
+## 📚 Chapter List
+
+| Chapter No. | Topic                             |
+|-------------|-----------------------------------|
+| Chapter 1   | Introduction to Python            |
+| Chapter 2   | Variables and Data Types          |
+| Chapter 3   | Strings                           |
+| Chapter 4   | Lists and List Methods            |
+| Chapter 5   | Dictionary and Set                |
+| Chapter 6   | Conditional Expressions           |
+| Chapter 7   | Loops                             |
+| Chapter 8   | Functions and Recursion           |
+| Chapter 9   | File Input/Output                 |
+| Chapter 10  | Object-Oriented Programming       |
+| Chapter 11  | Inheritance and More on OOP       |
+| Chapter 12  | Advanced Python Part 1            |
+| Chapter 13  | Advanced Python Part 2            |
 
 
 ## 📌 Topics Covered
